@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LWP.ShoppersHubDAL", "LWP.S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LWP.ShoppersHubUI", "LWP.ShoppersHubUI\LWP.ShoppersHubUI.csproj", "{F6ADA5E0-47F0-4D6D-B486-799E39956011}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LWP.ShoppersHubServices", "LWP.ShoppersHubServices\LWP.ShoppersHubServices.csproj", "{FA1A8FA5-BA2C-411D-8E43-9C49A180794A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LWP.ShoppersHubServices", "LWP.ShoppersHubServices\LWP.ShoppersHubServices.csproj", "{FA1A8FA5-BA2C-411D-8E43-9C49A180794A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
