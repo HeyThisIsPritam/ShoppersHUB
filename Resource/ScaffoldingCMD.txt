@@ -1,0 +1,1 @@
+Scaffold-DbContext -Connection "Data Source =(localdb)\\MSSQLLocalDB;Initial Catalog=ShoppersHubDB;Integrated Security=true" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
